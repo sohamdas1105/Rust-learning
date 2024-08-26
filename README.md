@@ -13,4 +13,4 @@ Day 1 :
 
 
 Day 2:
-Programming a Guessing Game
+Programming A Guessing Game
